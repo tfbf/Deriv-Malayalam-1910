@@ -5,6 +5,6 @@ This project aims at creating/generating derivative projects based on the Public
 # Status
 | Product Type|Status|Location|
 | :---: | :--- | :---|
-|Wordlist|Completed|[Auto Generated](wordlist.csv)|
-|Wordlist|Wordlist collection found, Waiting|[Dr. D. Babu Paul](wl-dbp.csv)|
-|Wordlist|Searching for a copy|[G. Susheelan](wl-sush.csv)|
+|Wordlist|Completed|[Auto Generated](ml-wordlist.md)
+|Wordlist|Wordlist collection found, Waiting|[Dr. D. Babu Paul](wl-dbp.md)
+|Wordlist|Searching for a copy|[G. Susheelan](wl-sush.md)
