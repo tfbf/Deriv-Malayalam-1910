@@ -1,7 +1,7 @@
 # Wordlist 
 ## generated from Malayalam 1910 Edition in New Orthography
 |Word|Spell Check|Occurance|
-|:---| :---:| ---:|
+|:---|:---:| ---:|
 |അംഗീകരിക്കയും|✅|4|
 |അംഗീകരിക്കുന്നു|✅|3|
 |അംഗീകരിക്കുമോ|✅|1|
