@@ -103,3 +103,123 @@ _Words from Dr. Babu Paul's Bible Dictioary_
 |Ahihud|അഹീഹൂദ്|
 |Ahijah|അഹിജാ|
 |Ahikam|അഹിഖാം|
+|Ahikhar‌|അഹിഖാർ‌|
+|Ahilud‌|അഹിലൂദ്‌|
+|Ahimaaz‌|അഹിമാസ്‌|
+|Ahiman‌|അഹിമാൻ‌|
+|Ahimelech‌|അഹിമലേക്‌|
+|Ahimoth‌|അഹിമോത്ത്‌|
+|Ahinadab‌|അഫിനാദാബ്‌|
+|Ahinoam‌|അഹിനോവാം‌|
+|Ahio‌|അഹിയോ‌|
+|Ahiram‌|അഹിരാം‌|
+|Ahisamach‌|അഹിശമാക്‌|
+|Ahishahar‌|അഹിശാഹർ‌|
+|Ahishar‌|അഹിഷാർ‌|
+|Ahithophel‌|അഹിത്തോഫേൽ‌|
+|Ahitub‌|അഹിത്തൂബ്‌|
+|Ahlab‌|അഹ്‌ലാബ്‌|
+|Ahlai‌|അഹ്‌ലായി‌|
+|Ahumai‌|അഹൂമായി‌|
+|Ahuzzam‌|അഹൂസാം‌|
+|Ahuzzath‌|അഹൂസാത്ത്‌|
+|Ahzai‌|അഹ്സായി‌|
+|Ai‌|ആയ്‌|
+|Aijalon‌|അയ്യാലോൺ‌|
+|Akeldama/acceldama‌|അക്കൽദാമ‌|
+|Akkoz‌|ആക്കോസ്‌|
+|Akmetha‌|അക്മേഥാ‌|
+|Akrabbim/akrabattene‌|അക്രബിം, അക്രബെത്തേനെ‌|
+|Alabaster‌|അലബാസ്റ്റർ‌|
+|Alamoth‌|അലാമോദ്‌|
+|Alcimus‌|അല്‌ക്കീമൂസ്‌|
+|Alcohol‌|മദ്യം‌|
+|Alema‌|അലെമ‌|
+|Alemeth‌|അലേമെത്ത്‌|
+|Alexandere‌|അലക്സാണ്ടർ‌|
+|Alexandria‌|അലക്സന്ത്രിയ‌|
+|Alian‌|അലിയാൻ, അല്‌വാൻ‌|
+|Allaam-melech‌|അല്ലാമെലെക്‌|
+|Alleluia‌|ഹല്ലേലുയ‌|
+|Allon‌|അല്ലോൻ‌|
+|Allon-baccuth‌|അല്ലോൻ ബാക്കൂത്ത്‌|
+|Almodad‌|അൽമോദാദ്‌|
+|Almon‌|അൽമോൻ‌|
+|Almon diblathaim‌|അൽമോൻ ദിബ്ലത്തായിം‌|
+|Almond‌|ബദാം‌|
+|Alpha and Omega‌|അൽഫയും ഒമേഗയും‌|
+|Alphaeus‌|അല്‌ഫായി‌|
+|Altar‌|അൾത്താര‌|
+|Altar‌|ബലിപീഠം‌|
+|Alush‌|അലൂഷ്‌|
+|Alva‌|അലിയാ‌|
+|Amad‌|അമാദ്‌|
+|Malekites‌|അമാലേക്യർ‌|
+|Amam‌|അമാം‌|
+|Amana‌|അമാന‌|
+|Amariah‌|അമരിയ‌|
+|Amasa‌|അമാസ‌|
+|Amasai‌|അമാസായി‌|
+|Amasia‌|അമാസിയ‌|
+|Ambrose‌|അംബ്റോസ്‌|
+|Amen‌|അമ്മേൻ‌|
+|Amittai‌|അമിത്തായി‌|
+|Ammah‌|അമ്മാ‌|
+|Ammiel‌|അമ്മീയേൽ‌|
+|Ammihub‌|അമ്മീഹൂദ്‌|
+|Amminadab‌|അമിനാദാബ്‌|
+|Ammonites‌|അമ്മൊന്യർ‌|
+|Amnon‌|അമ്‌നോൻ‌|
+|Amon‌|ആമോൻ‌|
+|Amorite‌|അമോര്യർ‌|
+|Amos‌|ആമോസ്‌|
+|Amos, Book of Amoz‌|ആമോസ് (ഗ്രന്ഥം)‌|
+|Amphipolis‌|ആംഫിപൊലിസ്‌|
+|Ampliatus‌|അംപ്ലിയാത്തൂസ്‌|
+|Amram‌|അമ്രാം‌|
+|Amraphel‌|അമ്രാഫേൽ‌|
+|Ana‌|അനാ‌|
+|Anab‌|അനാബ്‌|
+|Anabaptist‌|അനബാപ്റ്റിസ്റ്റ്‌|
+|Anael‌|അനായേൽ‌|
+|Anakim‌|അനാക്കീം‌|
+|Anamim‌|അനാമിം‌|
+|Anammelech‌|അനാമെലെക്‌|
+|Anamnesis‌|അനാമ്‌നെസിസ്‌|
+|Anani‌|അനാനി‌|
+|Ananish‌|അനാനിയ‌|
+|Ananias‌|അനന്യാസ്‌|
+|Ananiel‌|അനാനിയേൽ‌|
+|Anaphora‌|അന്നഫോറ‌|
+|Anath‌|അനാത്ത്‌|
+|Anathema‌|അനാത്തിമ‌|
+|Anathema‌|സഭാശിക്ഷ‌|
+|Anathematical [Object, Person etc]‌|ശപഥാർപ്പിതം‌|
+|Anathoth‌|അനാത്തോത്ത്‌|
+|Andrew‌|അന്ത്രയോസ്‌|
+|Andronicus‌|അന്ത്രോണിക്കസ്‌|
+|Angel‌|മാലാഖ, ദൈവദൂതൻ‌|
+|Aniam‌|അനിയാം‌|
+|Anim‌|അനീം‌|
+|Animal‌|മൃഗം‌|
+|Anise (Anethum Graveolens)‌|ചതകുപ്പ‌|
+|Anna‌|അന്ന‌|
+|Annas‌|അന്നാസ്‌|
+|Annas‌|ഹന്നാസ്, ഹന്നാവ്‌|
+|Annunciation‌|വചനിപ്പ്‌|
+|Anointing‌|അഭിഷേകം‌|
+|Anointing of the Sick‌|തൈലാഭിഷേകം‌|
+|Anomoeanism‌|അനോമോയിയനിസം‌|
+|Antichrist‌|അന്തിക്രിസ്തു‌|
+|Antioch‌|അന്ത്യോഖ്യ‌|
+|Antiochaen‌|അന്ത്യോഖ്യൻ‌|
+|Antiochis‌|അന്തിയോക്കിസ്‌|
+|Antiochus‌|അന്തിയോക്കാസ്‌|
+|Antipas‌|അന്തിപ്പാസ്‌|
+|Antipater‌|അന്തിപ്പത്തേർ‌|
+|Antipatris‌|അന്തിപ്പത്രിസ്‌|
+|Antonia‌|അന്തോണിയ‌|
+|Apelles‌|അപ്പെലസ്‌|
+|Aphus‌|ആഫൂസ്‌|
+|Apocalypse Literature‌|വെളിപാട്സാഹിത്യം‌|
+|
