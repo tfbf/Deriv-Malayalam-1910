@@ -1,3 +1,6 @@
+# വേദശബ്ദ രത്നാകരം ശബ്ദാവലി
+_Words from Dr. Babu Paul's Bible Dictioary_
+
 | Word | Malaylalam Rendering|
 | :--- | :--- |
 |Aaron|അഹരോൻ|
@@ -100,4 +103,3 @@
 |Ahihud|അഹീഹൂദ്|
 |Ahijah|അഹിജാ|
 |Ahikam|അഹിഖാം|
-|
