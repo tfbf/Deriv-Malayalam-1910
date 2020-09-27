@@ -221,5 +221,4 @@ _Words from Dr. Babu Paul's Bible Dictioary_
 |Antonia‌|അന്തോണിയ‌|
 |Apelles‌|അപ്പെലസ്‌|
 |Aphus‌|ആഫൂസ്‌|
-|Apocalypse Literature‌|വെളിപാട്സാഹിത്യം‌|
-|
+|Apocalypse Literature‌|വെളിപാട്‌സാഹിത്യം‌|
